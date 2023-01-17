@@ -40,13 +40,19 @@ const Hero = () => (
             </p>
         </div>
 
-        <div>
+        <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
             <img
                 src={bankImg}
-                alt="bankimg"
-                srcset=""
-                className="mx-0 pl-20"
+                alt="banking"
+                className="w-[85%] h-[80%] relative z-[5]"
             />
+            <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient"></div>
+            <div className="absolute z-[1] rounded-full bottom-40 w-[80%] h-[80%] white__gradient"></div>
+            <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient"></div>
+        </div>
+
+        <div className={`ss:hidden ${styles.flexCenter}`}>
+            <GetStarted />
         </div>
     </section>
 );
