@@ -44,7 +44,7 @@ const Hero = () => (
             <img
                 src={bankImg}
                 alt="banking"
-                className="w-[85%] h-[80%] relative z-[5]"
+                className="w-[85%] h-[80%] relative z-[5] object-contain"
             />
             <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient"></div>
             <div className="absolute z-[1] rounded-full bottom-40 w-[80%] h-[80%] white__gradient"></div>
