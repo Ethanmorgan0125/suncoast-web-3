@@ -40,7 +40,14 @@ const Hero = () => (
             </p>
         </div>
 
-        <div>img</div>
+        <div>
+            <img
+                src={bankImg}
+                alt="bankimg"
+                srcset=""
+                className="mx-0 pl-20"
+            />
+        </div>
     </section>
 );
 
