@@ -40,19 +40,21 @@ export const features = [
         icon: star,
         title: 'Rewards',
         content:
-            'The best credit cards offer some tantalizing combinations of promotions and prizes',
+            'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod soluta tempora reiciendis, aut mollitia recusandae quam',
     },
     {
         id: 'feature-2',
         icon: shield,
         title: '100% Secured',
-        content: 'We take proactive steps make sure your information and transactions are secure.',
+        content:
+            'Magni amet, in, sapiente exercitationem enim blanditiis rem, tempora saepe dolorum nam earum recusandae.',
     },
     {
         id: 'feature-3',
         icon: send,
         title: 'Balance Transfer',
-        content: 'A balance transfer credit card can save you a lot of money in interest charges.',
+        content:
+            'Est expedita praesentium esse eveniet tempora sunt ratione quisquam vero eos iure quae, doloremque voluptate.',
     },
 ];
 
@@ -107,23 +109,23 @@ export const footerLinks = [
         links: [
             {
                 name: 'Content',
-                link: 'https://www.hoobank.com/content/',
+                link: 'https://www.cyberFunds.com/content/',
             },
             {
                 name: 'How it Works',
-                link: 'https://www.hoobank.com/how-it-works/',
+                link: 'https://www.cyberFunds.com/how-it-works/',
             },
             {
                 name: 'Create',
-                link: 'https://www.hoobank.com/create/',
+                link: 'https://www.cyberFunds.com/create/',
             },
             {
                 name: 'Explore',
-                link: 'https://www.hoobank.com/explore/',
+                link: 'https://www.cyberFunds.com/explore/',
             },
             {
                 name: 'Terms & Services',
-                link: 'https://www.hoobank.com/terms-and-services/',
+                link: 'https://www.cyberFunds.com/terms-and-services/',
             },
         ],
     },
@@ -132,23 +134,23 @@ export const footerLinks = [
         links: [
             {
                 name: 'Help Center',
-                link: 'https://www.hoobank.com/help-center/',
+                link: 'https://www.cyberFunds.com/help-center/',
             },
             {
                 name: 'Partners',
-                link: 'https://www.hoobank.com/partners/',
+                link: 'https://www.cyberFunds.com/partners/',
             },
             {
                 name: 'Suggestions',
-                link: 'https://www.hoobank.com/suggestions/',
+                link: 'https://www.cyberFunds.com/suggestions/',
             },
             {
                 name: 'Blog',
-                link: 'https://www.hoobank.com/blog/',
+                link: 'https://www.cyberFunds.com/blog/',
             },
             {
                 name: 'Newsletters',
-                link: 'https://www.hoobank.com/newsletters/',
+                link: 'https://www.cyberFunds.com/newsletters/',
             },
         ],
     },
@@ -157,11 +159,11 @@ export const footerLinks = [
         links: [
             {
                 name: 'Our Partner',
-                link: 'https://www.hoobank.com/our-partner/',
+                link: 'https://www.cyberFunds.com/our-partner/',
             },
             {
                 name: 'Become a Partner',
-                link: 'https://www.hoobank.com/become-a-partner/',
+                link: 'https://www.cyberFunds.com/become-a-partner/',
             },
         ],
     },
